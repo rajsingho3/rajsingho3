@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Singh</h1>
-<h3 align="center">A passionate MERN Stack  developer</h3>
+<h3 align="center">A passionate Fullstack Developer ( MERN + Nextjs) r</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **Rajsinghr.2409@gmail.com**
 
