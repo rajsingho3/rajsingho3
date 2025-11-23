@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **DevOps, Web3**
 
-- 👨‍💻 All of my projects are available at [Portfolio /](https://rajsingh.dev)
+
 
 - 📫 How to reach me **rajsinghr.2409@gmail.com**
 
