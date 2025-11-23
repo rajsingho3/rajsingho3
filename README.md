@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps, Web3**
 
-- 👨‍💻 All of my projects are available at [https://raj-singh-portfolio.vercel.app/](https://raj-singh-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio /](https://rajsingh.dev)
 
 - 📫 How to reach me **rajsinghr.2409@gmail.com**
 
