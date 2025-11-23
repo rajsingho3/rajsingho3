@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raj Singh</h1>
 <h3 align="center">Turning Ideas into Interactive Web Experiences | MERN + Next.js Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsingho3&label=Profile%20views&color=0e75b6&style=flat" alt="rajsingho3" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rajsingho3&label=Profile%20views&color=0e75b6&style=flat" alt="rajsingho3" /> 
+  &nbsp;
+  <a href="https://rajsingh.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-rajsingh.dev-blue?style=for-the-badge&logo=react" alt="Portfolio Badge"/>
+  </a>
+</p>
 
 
 
