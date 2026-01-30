@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raj Singh</h1>
-<h3 align="center">Turning Ideas into Interactive Web Experiences | MERN + Next.js Developer</h3>
+<h3 align="center">Turning ideas into scalable web & AI-powered applications  
+Full-Stack (MERN + Next.js) | AI & Database-driven systems  
+| Open to SDE / Backend roles
+</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rajsingho3&label=Profile%20views&color=0e75b6&style=flat" alt="rajsingho3" /> 
@@ -11,7 +14,8 @@
 
 
 
-- 🌱 I’m currently learning **DevOps, Web3**
+- 🌱 Currently building hands-on skills in **DevOps** and **AI-driven applications**
+
 
 
 
