@@ -21,7 +21,7 @@ Full-Stack (MERN + Next.js) | AI & Database-driven systems
 
 - 📫 How to reach me **rajsinghr.2409@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YNhMOGaHB7wGehNMxbkcQJfBZKFpIyo3/view?usp=sharing](https://drive.google.com/file/d/1YNhMOGaHB7wGehNMxbkcQJfBZKFpIyo3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UKZCGqxZrXSxteZCWLX4s7ZcyKfNiUTG/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
