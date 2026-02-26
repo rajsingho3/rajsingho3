@@ -9,16 +9,13 @@ I'm a full-stack developer who loves building things that are fast, scalable, an
 
 ## 🚀 Featured Projects
 
-- **[Academic Resource Management Platform](https://github.com/rajsingho3)** – A MERN-based platform helping engineering students efficiently access and manage study materials. Features secure REST APIs with RBAC, MongoDB for metadata, and Firebase for file storage.  
+- **[Academic Resource Management Platform](https://github.com/rajsingho3/The-CS-Corner)** – A MERN-based platform helping engineering students efficiently access and manage study materials. Features secure REST APIs with RBAC, MongoDB for metadata, and Firebase for file storage.  
   `React` `JavaScript` `MongoDB` `Firebase` `Express` `Node.js`
 
-- **[Skribbl](https://github.com/rajsingho3)** – A real-time multiplayer drawing and guessing game inspired by Skribbl.io, built with WebSockets for seamless live gameplay.  
+- **[Skribbl](https://github.com/rajsingho3/Skribbl-Clone)** – A real-time multiplayer drawing and guessing game inspired by Skribbl.io, built with WebSockets for seamless live gameplay.  
   `React` `TypeScript` `Socket.IO` `Tailwind CSS` `Node.js`
 
-- **[MemoArcX](https://github.com/rajsingho3)** – A personal knowledge management tool — your second brain — to quickly capture, organize, and retrieve notes, ideas, and references in one place.  
-  `React` `TypeScript` `MongoDB`
-
-- **[QueryMind AI](https://github.com/rajsingho3)** – A natural language to SQL assistant that converts user queries into executable SQL statements, with real-time streaming responses powered by AI.  
+- **[QueryMind AI](https://github.com/rajsingho3/QueryMind-AI)** – A natural language to SQL assistant that converts user queries into executable SQL statements, with real-time streaming responses powered by AI.  
   `Next.js` `Vercel AI SDK` `OpenAI` `SQLite` `Drizzle ORM` `TypeScript`
 
 ---
@@ -27,12 +24,12 @@ I'm a full-stack developer who loves building things that are fast, scalable, an
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Academic Resource Management Platform](https://github.com/rajsingho3) | MERN platform for engineering students to access study materials with RBAC and Firebase storage | React, MongoDB, Firebase, Node.js |
-| [Skribbl](https://github.com/rajsingho3) | Real-time multiplayer drawing & guessing game | React, TypeScript, Socket.IO |
-| [DevForge](https://github.com/rajsingho3) | Browser-based VS Code-like code editor | Next.js, TypeScript, Monaco Editor |
-| [Roomify](https://github.com/rajsingho3) | WebSocket-based private chat rooms | React, TypeScript, WebSockets |
-| [MemoArcX](https://github.com/rajsingho3) | Personal knowledge management / second brain | React, TypeScript, MongoDB |
-| [QueryMind AI](https://github.com/rajsingho3) | Natural language to SQL assistant with AI streaming | Next.js, OpenAI, Drizzle ORM |
+| [Academic Resource Management Platform](https://github.com/rajsingho3/The-CS-Corner) | MERN platform for engineering students to access study materials with RBAC and Firebase storage | React, MongoDB, Firebase, Node.js |
+| [Skribbl](https://github.com/rajsingho3/Skribbl-Clone) | Real-time multiplayer drawing & guessing game | React, TypeScript, Socket.IO |
+| [DevForge](https://github.com/rajsingho3/DevForge) | Browser-based VS Code-like code editor | Next.js, TypeScript, Monaco Editor |
+| [Roomify](https://github.com/rajsingho3/Roomify) | WebSocket-based private chat rooms | React, TypeScript, WebSockets |
+| [MemoArcX](https://github.com/rajsingho3/MemoArcX-frontend) | Personal knowledge management / second brain | React, TypeScript, MongoDB |
+| [QueryMind AI](https://github.com/rajsingho3/QueryMind-AI) | Natural language to SQL assistant with AI streaming | Next.js, OpenAI, Drizzle ORM |
 
 ---
 
